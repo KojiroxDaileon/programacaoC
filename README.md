@@ -1,2 +1,0 @@
-# programacaoC
-programacaoC
